@@ -24,4 +24,3 @@ vim.keymap.set('n', 'zz', 'z<CR>')
 vim.keymap.set('n', 'Z', 'z-')
 vim.keymap.set('i', 'jj', '<ESC>')
 vim.keymap.set('n', 'U', '<C-r>')
-
